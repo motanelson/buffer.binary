@@ -1,2 +1,2 @@
-# freepascal.online.compiler
-server of pascal compiler online
+# hello_world.binary
+write into binary file
