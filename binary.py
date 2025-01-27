@@ -25,6 +25,6 @@ c=input("give me file name ? ")
 a=input("give me size in bytes ? ") 
 b=bins()
 b.sizes=int(a)
-#b.names=c
+b.names=c
 
 b.writes()
