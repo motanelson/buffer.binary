@@ -1,2 +1,2 @@
-# hello_world.binary
+# buffer.binary
 write into binary file
