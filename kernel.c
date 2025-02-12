@@ -737,7 +737,7 @@ void box(int x,int y,int x1,int y1,char b)
 	int nn=y1-y;
 	if (y1>=y && x1>=x && x<320 && x>-1 && y>-1 && y<200 && x1<320 && x1>-1 && y1>-1 && y1<200){
 	for (n=0;n<nn;n=n+1)   
-			hline(x,n+y,x1,b);
+			hline(x,n+y,x+x1,b);
 			}
 }
 
